@@ -24,7 +24,7 @@
 
 Manager
 Username:   manager@manager.com
-Passwored:  manager
+Password:  manager
 
 Cashier
 Username :cashier@cashier.com
